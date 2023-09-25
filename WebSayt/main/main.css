@@ -1,0 +1,85 @@
+/* header */
+.header{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
+.header-list{
+    list-style: none;
+    color: dimgray;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.header-item{
+    display: flex;
+    margin-left: -50px;
+}
+
+.header-logo-text{
+    margin-top: 0px;
+    margin-left: -2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header-logo{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+}
+
+.header-item-two{
+    margin-left: 150px;
+    margin-top: -62px;
+}
+
+.header-link{
+    text-decoration: none;
+    color: green;
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header-link:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.header-input{
+    margin-left: 1200px;
+    margin-top: -25px;
+}
+
+/* hero */
+.hero-list{
+    display: flex;
+    list-style: none;
+}
+
+.hero-item{
+    padding-left: 40px;
+}
+
+.hero-h1{
+    color: gray;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    font-size: 30px;
+}
+
+.hero-span{
+    color: green;
+}
+
+.hero-text{
+    width: 700px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
