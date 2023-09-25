@@ -1,0 +1,31 @@
+.dumaloq{
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 30px;
+    border-radius: 55px;
+    box-shadow: 0 0 0 2px inset white;
+    border: 3px solid purple;
+    background-image: url(../Windows_icon-icons.com_67026.ico);
+}
+
+.dumaloq1{
+    display: flex;
+}
+
+.span{
+    display: block;
+    color: aqua;
+    background-color: aqua;
+    border-radius: 55px;
+    width: 20px;
+    height: 20px;
+    transform: translate(40px ,90px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dumaloq-text{
+    transform: translate(-75px);
+    margin-top: 165px;
+}
